@@ -1,0 +1,10 @@
+*.swp
+*.o
+*.out
+maticalc
+*.exe
+*.class
+*.log
+.DS_Store
+maticalc.dSYM/*
+
